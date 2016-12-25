@@ -28,6 +28,7 @@ namespace FileVisualizor {
 		public MainWindow() {
 			InitializeComponent();
 			AllowDrop = true;
+			ResizeMode = ResizeMode.NoResize;
 			FillByteToColor();
 			lim = (int)((this.Width - dx) / size) * 50;
 			initRectangles();
