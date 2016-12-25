@@ -1,0 +1,14 @@
+C:\Users\imax5\Documents\Visual Studio 2015\Projects\FileVisualizor\FileVisualizor\bin\Debug\FileVisualizor.exe.config
+C:\Users\imax5\Documents\Visual Studio 2015\Projects\FileVisualizor\FileVisualizor\bin\Debug\FileVisualizor.exe
+C:\Users\imax5\Documents\Visual Studio 2015\Projects\FileVisualizor\FileVisualizor\bin\Debug\FileVisualizor.pdb
+C:\Users\imax5\Documents\Visual Studio 2015\Projects\FileVisualizor\FileVisualizor\obj\Debug\MainWindow.g.cs
+C:\Users\imax5\Documents\Visual Studio 2015\Projects\FileVisualizor\FileVisualizor\obj\Debug\App.g.cs
+C:\Users\imax5\Documents\Visual Studio 2015\Projects\FileVisualizor\FileVisualizor\obj\Debug\FileVisualizor_MarkupCompile.cache
+C:\Users\imax5\Documents\Visual Studio 2015\Projects\FileVisualizor\FileVisualizor\obj\Debug\FileVisualizor_MarkupCompile.lref
+C:\Users\imax5\Documents\Visual Studio 2015\Projects\FileVisualizor\FileVisualizor\obj\Debug\MainWindow.baml
+C:\Users\imax5\Documents\Visual Studio 2015\Projects\FileVisualizor\FileVisualizor\obj\Debug\FileVisualizor.g.resources
+C:\Users\imax5\Documents\Visual Studio 2015\Projects\FileVisualizor\FileVisualizor\obj\Debug\FileVisualizor.Properties.Resources.resources
+C:\Users\imax5\Documents\Visual Studio 2015\Projects\FileVisualizor\FileVisualizor\obj\Debug\FileVisualizor.csproj.GenerateResource.Cache
+C:\Users\imax5\Documents\Visual Studio 2015\Projects\FileVisualizor\FileVisualizor\obj\Debug\FileVisualizor.exe
+C:\Users\imax5\Documents\Visual Studio 2015\Projects\FileVisualizor\FileVisualizor\obj\Debug\FileVisualizor.pdb
+C:\Users\imax5\Documents\Visual Studio 2015\Projects\FileVisualizor\FileVisualizor\obj\Debug\FileVisualizor.csprojResolveAssemblyReference.cache
